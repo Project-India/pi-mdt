@@ -8,7 +8,7 @@ Just Drag And Drop The ps-mdt Folder
 
 # Preview
 
-![MDT](https://youtu.be/1S1-H15wSZ4)
+(https://youtu.be/1S1-H15wSZ4)
 
 # Credits
 
