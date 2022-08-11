@@ -15,4 +15,4 @@ Just Drag And Drop The ps-mdt Folder
 Scorpion.#5940 , Gabbar Singh#5258 , Team Project India , Project Sloth For MDT And EchoRP For Original MDT
 
 # Support
-https://discord.gg/y2h3NNxydu
+https://discord.gg/Kd5B3KPnTv
